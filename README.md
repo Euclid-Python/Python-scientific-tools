@@ -43,6 +43,6 @@ The examples are based on work with astrophysics and cosmology but can easily be
 
 1. [Numpy](./Numpy.ipynb)
 1. [Pandas](./Pandas.ipynb)
-1. [Scipy-Cosmo](./Scipy-Matplotlib.ipynb)
+1. [Scipy-Matplotlib (Cosmo)](./Scipy-Matplotlib.ipynb)
 
 Answers to the exercises will be added after the workshop.
