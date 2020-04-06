@@ -41,8 +41,8 @@ Scipy for scientific-related work, such as integrals, special functions and diff
 Matplotlib for scientific visualization and plotting.
 The examples are based on work with astrophysics and cosmology but can easily be adapted to any other field and don't require any previous knowledge in these fields.
 
-1. [Numpy](./Numpy.ipynb)
+1. [Numpy](./Numpy-Advanced.ipynb)
 1. [Pandas](./Pandas.ipynb)
-1. [Scipy-Matplotlib (Cosmo)](./Scipy-Matplotlib.ipynb)
+1. [Scipy-Matplotlib (Cosmo)](./Scipy-Matplotlib-Cosmo.ipynb)
 
 Answers to the exercises will be added after the workshop.
